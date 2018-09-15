@@ -1,7 +1,7 @@
 # Python_basic
-### python의 기본을 공부하고 올리기 위해 만들어졌습니다.
+### This Repository was made for basics of python
 
-#### 목차는 다음과 같습니다.
+#### Content
 1. String manipulation 
 2. List Basic Usage
 3. Dictionary Basic Usage
