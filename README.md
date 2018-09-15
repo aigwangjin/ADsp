@@ -1,5 +1,5 @@
-# ADsP
-## 조금 작은 제목
+# Python_basic
+## 
 ### EJEJ WKRDMS WPAHR
 study for git basic (왠만하면 영어로 붙여줄것)
 
